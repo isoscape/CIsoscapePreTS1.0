@@ -1,3 +1,3 @@
-# CIsoscapePreTS1.0
-S Wang, Y Xiao, Y Qian, H Li, C Che, X Zhu, M Zhang. Reconstructed precipitation isotopes in China during the past six decades based on machine learning. Journal of Hydrology, 2025, 662: 134003. https://doi.org/10.1016/j.jhydrol.2025.134003. 
-http://cisoscape.wz.hwdlszywz.net/vip_doc/29999878.html
+# C-Isoscape PreTS v1.0
+#S Wang, Y Xiao, Y Qian, H Li, C Che, X Zhu, M Zhang. Reconstructed precipitation isotopes in China during the past six decades based on machine learning. Journal of Hydrology, 2025, 662: 134003. https://doi.org/10.1016/j.jhydrol.2025.134003. 
+#http://cisoscape.wz.hwdlszywz.net/vip_doc/29999878.html
